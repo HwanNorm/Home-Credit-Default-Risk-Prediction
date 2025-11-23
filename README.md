@@ -9,7 +9,7 @@ A machine learning project to predict credit default risk using the Home Credit 
 
 ## Live Demo
 
-🚀 **Try the model:** [Home Credit Default Predictor]([https://huggingface.co/spaces/YOUR_USERNAME/Home-Credit-Default-Risk](https://huggingface.co/spaces/CodexN/Home-Credit-Default-Risk))
+🚀 **Try the model:** [Home Credit Default Predictor]([https://huggingface.co/spaces/CodexN/Home-Credit-Default-Risk]))
 
 > Enter a Client ID to get the predicted default probability and risk classification.
 
