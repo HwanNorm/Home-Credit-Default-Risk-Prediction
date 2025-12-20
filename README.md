@@ -266,7 +266,6 @@ The notebook includes:
 
 **Pham Hoang Nam**
 
-Machine Learning Final Project - K7
 
 ## License
 
